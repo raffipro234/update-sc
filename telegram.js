@@ -827,7 +827,7 @@ bot.action("bug_menu", async (ctx) => {
   const waktuRunPanel = getUptime();    
   const mainMenuMessage = `
 ⟣━━━━━━━━━━━━━━━━━━
-<blockquote><strong>𝐀͢𝐭͜𝐭͡𝐚͢𝐜͜𝐤͡ ⍣᳟ 𝐌͢𝐞͡𝐧͜𝐮</strong></blockquote>
+<blockquote><strong>一緒 Attack Menu Vionix ᯤ</strong></blockquote>
 ⫹⫺ - /DelayInvisSpam ━ Delay Invis ⚜️
 └‣ Delay Invis Bebas Spam 
 ⟣━━━━━━━━━━━━━━━━━━
