@@ -86,15 +86,15 @@ async function isAdmin(ctx) {
 // === Fungsi Loading Menu ===
 async function LoadingViper(ctx) {
     const frames = [
-        "𝐋 𝐎 𝐀 𝐃 𝐈 𝐍 𝐆 - 𝐒 𝐘 𝐒 𝐓 𝐄 𝐌 🕘",
-        "░░░░░░░░░░░░░░░ 0%",
-        "▓▓▓░░░░░░░░░░░░ 11%",
-        "▓▓▓▓▓▓░░░░░░░░░ 25%",
-        "▓▓▓▓▓▓▓▓▓░░░░░░ 41%",
-        "▓▓▓▓▓▓▓▓▓▓▓▓░░░ 84%",
-        "▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 95%",
-        "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%",
-        "𝐋 𝐎 𝐀 𝐃 𝐈 𝐍 𝐆 - 𝐒 𝐔 𝐂 𝐂 𝐄 𝐒 ✅"
+        "🛸 𝐕𝐈𝐎𝐍𝐈𝐗 𝐈𝐍𝐕𝐈𝐂𝐓𝐔𝐒 𝐕𝟑𝟖",
+    "💎 ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯ 𝟎%",
+    "💎 ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯ 𝟏𝟐%",
+    "💎 ▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯ 𝟐𝟗%",
+    "🧪 ▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯ 𝟓𝟏%",
+    "🧪 ▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯ 𝟕𝟖%",
+    "☄️ ▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯ 𝟗𝟒%",
+    "☄️ ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 𝟏𝟎𝟎%",
+    "✨ 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐔𝐂𝐂𝐄𝐒𝐒"
     ];
 
     // Kirim pesan awal
@@ -437,26 +437,15 @@ bot.command("start", async (ctx) => {
       ? "On Boss"
       : "Ga On Jir"; 
       
-  const mainMenuMessage = `<b>🌙 ───「 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗞𝗔𝗥𝗘𝗘𝗠 」─── 🌙</b>
-━━━━━━━━━━━━━━━━━━━━━━
-بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-
-<blockquote><strong><b>( 🌪️ ) V I O N I X - I N V I C T U S ─ⓘ─</b>
-
-Привет, я бот, который полезен для отправки ошибок WhatsApp через Telegram.
-Я был создан @Raffioffci2.
-
-Пожалуйста, используйте этого бота разумно и ответственно.
-Наслаждайтесь.
-──────────────────────────
-<b> ───「 🕌 INFO LAYANAN VIONIX 」─── </b>
+  const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
+<blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
+<blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
 ⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 37.0.0 • Limited Edition
+⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
 ⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
 ⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
 ⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
-──────────────────────────
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
 ⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
@@ -465,7 +454,6 @@ bot.command("start", async (ctx) => {
 ⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
 ⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
 ⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-━━━━━━━━━━━━━━━━━━━━━━</strong></blockquote>
 <blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
 `;
 
@@ -554,26 +542,15 @@ bot.action("attackmenu_menu", async (ctx) => {
       ? "On Boss"
       : "Ga On Jir"; 
       
-  const mainMenuMessage = `<b>🌙 ───「 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗞𝗔𝗥𝗘𝗘𝗠 」─── 🌙</b>
-━━━━━━━━━━━━━━━━━━━━━━
-بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-
-<blockquote><strong><b>( 🌪️ ) V I O N I X - I N V I C T U S ─ⓘ─</b>
-
-Привет, я бот, который полезен для отправки ошибок WhatsApp через Telegram.
-Я был создан @Raffioffci2.
-
-Пожалуйста, используйте этого бота разумно и ответственно.
-Наслаждайтесь.
-──────────────────────────
-<b> ───「 🕌 INFO LAYANAN VIONIX 」─── </b>
+  const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
+<blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
+<blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
 ⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 37.0.0 • Limited Edition
+⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
 ⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
 ⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
 ⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
-──────────────────────────
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
 ⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
@@ -582,7 +559,6 @@ bot.action("attackmenu_menu", async (ctx) => {
 ⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
 ⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
 ⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-━━━━━━━━━━━━━━━━━━━━━━</strong></blockquote>
 <blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
 `;
 
@@ -682,26 +658,15 @@ bot.action("group_menu", async (ctx) => {
       ? "On Boss"
       : "Ga On Jir"; 
       
-  const mainMenuMessage = `<b>🌙 ───「 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗞𝗔𝗥𝗘𝗘𝗠 」─── 🌙</b>
-━━━━━━━━━━━━━━━━━━━━━━
-بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-
-<blockquote><strong><b>( 🌪️ ) V I O N I X - I N V I C T U S ─ⓘ─</b>
-
-Привет, я бот, который полезен для отправки ошибок WhatsApp через Telegram.
-Я был создан @Raffioffci2.
-
-Пожалуйста, используйте этого бота разумно и ответственно.
-Наслаждайтесь.
-──────────────────────────
-<b> ───「 🕌 INFO LAYANAN VIONIX 」─── </b>
+  const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
+<blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
+<blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
 ⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 37.0.0 • Limited Edition
+⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
 ⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
 ⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
 ⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
-──────────────────────────
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
 ⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
@@ -710,7 +675,6 @@ bot.action("group_menu", async (ctx) => {
 ⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
 ⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
 ⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-━━━━━━━━━━━━━━━━━━━━━━</strong></blockquote>
 <blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
 `;
 
@@ -1789,26 +1753,15 @@ bot.action("back", async (ctx) => {
       ? "On Boss"
       : "Ga On Jir"; 
       
-  const mainMenuMessage = `<b>🌙 ───「 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗞𝗔𝗥𝗘𝗘𝗠 」─── 🌙</b>
-━━━━━━━━━━━━━━━━━━━━━━
-بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-
-<blockquote><strong><b>( 🌪️ ) V I O N I X - I N V I C T U S ─ⓘ─</b>
-
-Привет, я бот, который полезен для отправки ошибок WhatsApp через Telegram.
-Я был создан @Raffioffci2.
-
-Пожалуйста, используйте этого бота разумно и ответственно.
-Наслаждайтесь.
-──────────────────────────
-<b> ───「 🕌 INFO LAYANAN VIONIX 」─── </b>
+  const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
+<blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
+<blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
 ⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 37.0.0 • Limited Edition
+⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
 ⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
 ⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
 ⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
-──────────────────────────
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
 ⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
 ⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
@@ -1817,7 +1770,6 @@ bot.action("back", async (ctx) => {
 ⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
 ⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
 ⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-━━━━━━━━━━━━━━━━━━━━━━</strong></blockquote>
 <blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
 `;
 
