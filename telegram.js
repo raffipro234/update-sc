@@ -440,21 +440,21 @@ bot.command("start", async (ctx) => {
   const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
 <blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
 <blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
-⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
-⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
-⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
-⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
+✗ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
+✗ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
+✗ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
+✗ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
+✗ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
+✗ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
-⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
-⫹⫺ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
-⫹⫺ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
-⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
-⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
-⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-<blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
+✗ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
+✗ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
+✗ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
+✗ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
+✗ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
+✗ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
+✗ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
+<blockquote><strong>✖ Tap buttons to continue ✖</strong></blockquote>
 `;
 
   const media = {
@@ -545,21 +545,21 @@ bot.action("attackmenu_menu", async (ctx) => {
   const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
 <blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
 <blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
-⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
-⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
-⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
-⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
+✗ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
+✗ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
+✗ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
+✗ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
+✗ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
+✗ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
-⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
-⫹⫺ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
-⫹⫺ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
-⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
-⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
-⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-<blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
+✗ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
+✗ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
+✗ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
+✗ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
+✗ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
+✗ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
+✗ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
+<blockquote><strong>✖ Tap buttons to continue ✖</strong></blockquote>
 `;
 
   const media = {
@@ -661,21 +661,21 @@ bot.action("group_menu", async (ctx) => {
   const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
 <blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
 <blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
-⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
-⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
-⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
-⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
+✗ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
+✗ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
+✗ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
+✗ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
+✗ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
+✗ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
-⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
-⫹⫺ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
-⫹⫺ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
-⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
-⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
-⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-<blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
+✗ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
+✗ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
+✗ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
+✗ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
+✗ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
+✗ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
+✗ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
+<blockquote><strong>✖ Tap buttons to continue ✖</strong></blockquote>
 `;
 
   const media = {
@@ -1756,21 +1756,21 @@ bot.action("back", async (ctx) => {
   const mainMenuMessage = `<blockquote><strong>⏤ ( 🍂 ) — こんにちは ${Name}!</strong></blockquote>
 <blockquote><strong>自己紹介させてください。私は Vionix Invictus 38.0.0 – Limited Edition です現在、次世代システムとして正式リリースされていますこれは最新かつ最強レベルのシステムです。ぜひ体験してくださいこれこそ @Raffioffci2 あなたが求めていた “力” です</strong></blockquote>
 <blockquote><strong>⏤ 𝖳𝗁𝖾 𝖡𝗈𝗍 Ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
-⫹⫺ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
-⫹⫺ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
-⫹⫺ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
-⫹⫺ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
-⫹⫺ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
+✗ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 » @Raffioffci2
+✗ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 » Vionix Invictus
+✗ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 » 38.0.0 • Limited Edition
+✗ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 » JavaScript
+✗ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 » Telegraf.Js
+✗ 𝗦𝘁𝗮𝘁𝘂𝘀 » Online
 <blockquote><strong>⏤ 𝖲𝗍𝖺𝗍𝗎𝗌 𝖡𝗈𝗍𝗌 ϟ 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇</strong></blockquote>
-⫹⫺ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
-⫹⫺ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
-⫹⫺ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
-⫹⫺ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
-⫹⫺ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
-⫹⫺ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
-⫹⫺ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
-<blockquote><strong>( Ϟ ) Please select a button menu below!!!</strong></blockquote>
+✗ 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲 » ${Name}
+✗ 𝗦𝗲𝗻𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀 » ${waStatus}
+✗ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 » ${waktuRunPanel}
+✗ 𝗗𝗮𝘁𝗲 » ${new Date().toLocaleDateString()}
+✗ 𝗥𝗼𝗹𝗲 𝗨𝘀𝗲𝗿𝘀 ${isPremium ? "👑 Premium User" : "💸 Free User"}
+✗ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 » Limited Access Enabled
+✗ 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 » Official Release
+<blockquote><strong>✖ Tap buttons to continue ✖</strong></blockquote>
 `;
 
   const media = {
